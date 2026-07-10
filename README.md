@@ -1,16 +1,56 @@
-# React + Vite
+# 🌤️ Weatherly
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive weather application built with **React** and **Vite** that provides accurate real-time weather information with a clean, interactive, and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://weatherly-amina-app.netlify.app/
 
-## React Compiler
+## 📖 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Weatherly allows users to search for any city worldwide and instantly access detailed weather information. The application combines an elegant design with practical weather data, making it simple and enjoyable to explore current conditions and upcoming forecasts.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search weather by city name
+- 🌍 Display city and country information
+- 🌡️ Current temperature
+- 🤗 Feels Like temperature
+- 💧 Humidity
+- 🌬️ Wind speed
+- 📊 Atmospheric pressure
+- 👁️ Visibility
+- ☁️ Cloudiness
+- 🌅 Sunrise & Sunset times
+- 📅 10-Day Weather Forecast
+- 🗺️ Interactive Weather Map
+- 💡 Daily weather tips
+- 🕒 Current date and time
+- 🎨 Dynamic weather background
+- ⏳ Loading animation while fetching data
+- ❌ Error handling for invalid city names
+- 📱 Fully responsive design for desktop, tablet, and mobile devices
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- OpenWeather API
+- React Icons
+- Leaflet
+- OpenStreetMap
+
+## 🔗 Links
+
+- 🌐 Live Demo: https://weatherly-amina-app.netlify.app/
+- 💻 GitHub Repository: https://github.com/aminaarmad/weather-app-react
+
+## 👩‍💻 Author
+
+**Amina**
+
+Computer Science Student | Front-End Developer
+
+If you like this project, don't forget to ⭐ star the repository!
