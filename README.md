@@ -27,6 +27,7 @@ Weatherly allows users to search for any city worldwide and instantly access det
 - 💡 Daily weather tips
 - 🕒 Current date and time
 - 🎨 Dynamic weather background
+- 🎥 Dynamic background videos based on current weather conditions
 - ⏳ Loading animation while fetching data
 - ❌ Error handling for invalid city names
 - 📱 Fully responsive design for desktop, tablet, and mobile devices
