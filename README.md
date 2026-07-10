@@ -42,6 +42,19 @@ Weatherly allows users to search for any city worldwide and instantly access det
 - Leaflet
 - OpenStreetMap
 
+- ## 📸 Project Preview
+
+### Home Page
+
+![Home](src/assets/screenshots/Background.png)
+
+### Weather Information
+
+<p align="center">
+  <img src="src/assets/screenshots/weather1.png" width="48%">
+  <img src="src/assets/screenshots/weather2.png" width="48%">
+</p>
+
 ## 🔗 Links
 
 - 🌐 Live Demo: https://weatherly-amina-app.netlify.app/
