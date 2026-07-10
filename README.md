@@ -22,7 +22,7 @@ Weatherly allows users to search for any city worldwide and instantly access det
 - 👁️ Visibility
 - ☁️ Cloudiness
 - 🌅 Sunrise & Sunset times
-- 📅 10-Day Weather Forecast
+- 📅 5-Day Weather Forecast
 - 🗺️ Interactive Weather Map
 - 💡 Daily weather tips
 - 🕒 Current date and time
